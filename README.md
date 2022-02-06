@@ -1,15 +1,15 @@
 <h1 align="center">Redouane Elkaboussi</h1>
 <div align="center">
     <!-- LinkedIn -->
-    <a href="" target="_blank"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644179479~hmac=d718553242d2163f26a47e01d3ccda33"></a>
+    <a href="https://www.linkedin.com/in/redouane-elkaboussi-296850219/" target="_blank"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1644179479~hmac=d718553242d2163f26a47e01d3ccda33"></a>
     <!-- Telegram -->
-    <a href="" target="_blank"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536661.png?token=exp=1644179737~hmac=4ecbab805c9df72dc70e1adb1ad32d32"></a>
+    <a href="https://t.me/redelka" target="_blank"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536661.png?token=exp=1644179737~hmac=4ecbab805c9df72dc70e1adb1ad32d32"></a>
     <!-- Email -->
-    <a href="" target="_blank"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/2374/premium/2374449.png?token=exp=1644179695~hmac=32fd5da82a2ef4b305a6f2ea49abf2ca"></a>
+    <a href="mailto:elkaboussi@pm.me" target="_blank"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/2374/premium/2374449.png?token=exp=1644179695~hmac=32fd5da82a2ef4b305a6f2ea49abf2ca"></a>
     <!-- Github -->
-    <a href="" target="_blank"><img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"></a>
+    <a href="https://www.github.com/red-elka" target="_blank"><img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/25/25657.png"></a>
     <!-- Twitter -->
-    <a href="" target="_blank"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1644179852~hmac=e8504043114b28922a6d4a0bfee9247c"></a>
+    <a href="https://twitter.com/ElkaboussiR?t=agCbdyzuHk1F_oB9AIDbVw&s=09" target="_blank"><img height="30" width="30" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1644179852~hmac=e8504043114b28922a6d4a0bfee9247c"></a>
 </div>
 <br>
 
