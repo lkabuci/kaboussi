@@ -16,16 +16,16 @@
 ### Hey there
 
 <!-- Github Statistics -->
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=red-elka&count_private=true&hide_border=true&show_icons=true&&bg_color=0d1117&text_color=ebf1f7&icon_color=1f6feb&title_color=1f6fe&hide_title=)](https://github.com/red-elka/)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=redelka00&count_private=true&hide_border=true&show_icons=true&&bg_color=0d1117&text_color=ebf1f7&icon_color=1f6feb&title_color=1f6fe&hide_title=)](https://github.com/redelka00/)
 <!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=red-elka&bg_color=0d1117&hide=shell&hide_border=true&text_color=ebf1f7&title_color=1f6fe)](https://github.com/red-elka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redelka00&bg_color=0d1117&hide=shell&hide_border=true&text_color=ebf1f7&title_color=1f6fe)](https://github.com/redelka00)
 <!-- Skills -->
 ### ⭐ Used Technologie.
 <div align="center">
     <!-- Linux -->
     <a href="https://archlinux.org/" target="_blank"><img height="50" width="100" src="https://camo.githubusercontent.com/875b2967090ac970937698e92e1bfeefdc6168b9afb428aabfe321e19d549d74/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e75782e737667"></a>
-    <!-- Vs Code -->
-    <a href="https://code.visualstudio.com" target="_blank"><img height="50" width="100" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667"></a>
+    <!-- MySQL -->
+    <a href="https://www.mysql.com/" target="_blank"><img height="50" width="100" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667"></a>
     <!-- python -->
     <a href="https://www.python.org/" target="_blank"><img height="50" width="100" src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667"></a>
     <!-- Git -->
