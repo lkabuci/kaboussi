@@ -14,11 +14,13 @@
 <br>
 
 ### Hey there
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=redelkaoo)](https://twitter.com/redelkaoo)
+<!-- Strick -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=redelka00&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://redelka00.github.io)
 <!-- Github Statistics -->
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=redelka00&count_private=true&hide_border=true&show_icons=true&&bg_color=0d1117&text_color=ebf1f7&icon_color=1f6feb&title_color=1f6fe&hide_title=)](https://github.com/redelka00/)
 <!-- Most Used Languages -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redelka00&bg_color=0d1117&hide=shell&hide_border=true&text_color=ebf1f7&title_color=1f6fe)](https://github.com/redelka00)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redelka00&layout=compact&bg_color=0d1117&hide_border=true&text_color=ebf1f7&title_color=1f6fe)](https://github.com/redelka00)
 <!-- Skills -->
 ### ⭐ Used Technologie.
 <div align="center">
