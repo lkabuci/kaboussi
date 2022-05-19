@@ -11,13 +11,13 @@
 📩 Happy to assist my fellow Python lovers, or haters 😄, to contribute to your work! [![Email Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white)][send_mail]
 
 <div align="center">
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=redelka00&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = 400>
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=kaboussi&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = 400>
 
-![Views](https://komarev.com/ghpvc/?username=red-elka&color=green)
+![Views](https://komarev.com/ghpvc/?username=kaboussi&color=green)
 
 <br />
 <br />
 
-[twitter]: https://www.twitter.com/redelkaoo
+[twitter]: https://www.twitter.com/kaboussi_
 [linkedin]: https://www.linkedin.com/in/redouane-elkaboussi/
 [send_mail]: mailto:elkaboussi@pm.me
