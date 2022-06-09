@@ -1,4 +1,4 @@
-<h3 align="center">R E D O N E</h3>
+<h3 align="center">Redouane Elkaboussi</h3>
 <br>
 
 <!-- Twitter -->
