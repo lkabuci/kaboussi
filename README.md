@@ -1,7 +1,7 @@
 <h3 align="center">Redouane Elkaboussi</h3>
 <br>
 
-[![relkabou's 42 stats](https://badge.mediaplus.ma/greenbinary/relkabou)](https://github.com/relkabou/badge42)
+[![relkabou's 42 stats](https://badge.mediaplus.ma/greenbinary/relkabou)](https://twitter.com/kaboussi_)
 
 <!-- Twitter -->
 🐦 I regualrly tweet about my coding journey. My content shares some useful tips as well as some funny memes 😄 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)][twitter]
