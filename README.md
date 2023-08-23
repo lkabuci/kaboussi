@@ -20,4 +20,4 @@
 
 [twitter]: https://www.twitter.com/kaboussi_
 [linkedin]: https://www.linkedin.com/in/redouane-elkaboussi/
-[send_mail]: mailto:elkaboussi@pm.me
+[send_mail]: mailto:github@shadashi.anonaddy.com
